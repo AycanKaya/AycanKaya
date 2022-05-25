@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycankaya&label=Profile%20views&color=0e75b6&style=flat" alt="aycankaya" /> </p>
 
-- 🌱 I’m currently learning **.NET CORE**
+- 🌱 I’m currently learning **.NET CORE and React**
 
-- 💬 Ask me about **Laravel, PHP, Python,Java**
+- 💬 Ask me about **.NET CORE, C# , Onion Arhitecture , Design Patterns , Laravel, PHP, Python,Java**
 
 - 📫 How to reach me **aycnkya12@gmail.com**
 
