@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET CORE and React**
 
-- 💬 Ask me about **.NET CORE, C# , Onion Arhitecture , Design Patterns , Laravel, PHP, Python,Java**
+- 💬 Ask me about **.NET CORE, C# , Onion Arhitecture , Design Patterns ,  Python,Java**
 
 - 📫 How to reach me **aycnkya12@gmail.com**
 
